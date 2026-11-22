@@ -1,0 +1,7 @@
+subject_id,site_id,status,consent_date
+DEMO001,SITE-A,screened,2026-01-10
+DEMO002,SITE-A,enrolled,2026-01-15
+DEMO003,SITE-A,completed,2026-02-01
+DEMO004,SITE-B,screen_failed,2026-02-12
+DEMO005,SITE-B,withdrawn,2026-03-08
+DEMO006,SITE-C,enrolled,2026-03-09
